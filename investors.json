@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "clients": [
+  {
+   "id": "3ea7cb55",
+   "name": "Ahzam (OWNER)",
+   "note": "",
+   "created": 1794246068294
+  }
+ ],
+ "ledger": [
+  {
+   "id": "708558ed",
+   "client": "3ea7cb55",
+   "type": "deposit",
+   "amount": 70.55,
+   "time": 1794246068294,
+   "note": "First deposit"
+  }
+ ],
+ "trades": []
+}
