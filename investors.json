@@ -18,5 +18,34 @@
    "note": "First deposit"
   }
  ],
- "trades": []
+ "trades": [
+  {
+   "id": "1504123538124722179",
+   "symbol": "BTC",
+   "side": "SHORT",
+   "open_ms": 1794336917429,
+   "close_ms": 1794344517627,
+   "entry": 73522.6,
+   "exit": 73923.2,
+   "notional": 235.27232000000004,
+   "margin": null,
+   "gross": -1.28192,
+   "fees": 0.28309593,
+   "funding": 0.0,
+   "net": -1.56501593,
+   "pool": 70.55,
+   "shares": {
+    "3ea7cb55": {
+     "cap": 70.55,
+     "share": 1.0,
+     "margin": null,
+     "notional": 235.27232000000004,
+     "gross": -1.28192,
+     "fees": 0.28309593,
+     "funding": 0.0,
+     "net": -1.56501593
+    }
+   }
+  }
+ ]
 }
