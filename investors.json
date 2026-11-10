@@ -46,6 +46,34 @@
      "net": -1.56501593
     }
    }
+  },
+  {
+   "id": "1504124137604009985",
+   "symbol": "XRP",
+   "side": "SHORT",
+   "open_ms": 1794337060356,
+   "close_ms": 1794347116559,
+   "entry": 1.0727,
+   "exit": 1.0622,
+   "notional": 106.1973,
+   "margin": null,
+   "gross": 1.0445,
+   "fees": 0.12681006,
+   "funding": 0.0,
+   "net": 0.91768994,
+   "pool": 70.55,
+   "shares": {
+    "3ea7cb55": {
+     "cap": 70.55,
+     "share": 1.0,
+     "margin": null,
+     "notional": 106.1973,
+     "gross": 1.0445,
+     "fees": 0.12681006,
+     "funding": 0.0,
+     "net": 0.91768994
+    }
+   }
   }
  ]
 }
