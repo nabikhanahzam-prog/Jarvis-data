@@ -74,6 +74,146 @@
      "net": 0.91768994
     }
    }
+  },
+  {
+   "id": "1504175461649502211",
+   "symbol": "XRP",
+   "side": "LONG",
+   "open_ms": 1794349296962,
+   "close_ms": 1794349415249,
+   "entry": 1.0625,
+   "exit": 1.062,
+   "notional": 96.6875,
+   "margin": null,
+   "gross": -0.0455,
+   "fees": 0.11599770000000001,
+   "funding": 0.0,
+   "net": -0.1614977,
+   "pool": 69.90267401,
+   "shares": {
+    "3ea7cb55": {
+     "cap": 69.90267401,
+     "share": 1.0,
+     "margin": null,
+     "notional": 96.6875,
+     "gross": -0.0455,
+     "fees": 0.11599770000000001,
+     "funding": 0.0,
+     "net": -0.1614977
+    }
+   }
+  },
+  {
+   "id": "1504176198689378307",
+   "symbol": "XRP",
+   "side": "LONG",
+   "open_ms": 1794349472686,
+   "close_ms": 1794349479479,
+   "entry": 1.0621,
+   "exit": 1.0622,
+   "notional": 96.6511,
+   "margin": null,
+   "gross": 0.0091,
+   "fees": 0.11598678,
+   "funding": 0.0,
+   "net": -0.10688678,
+   "pool": 69.74117631,
+   "shares": {
+    "3ea7cb55": {
+     "cap": 69.74117631,
+     "share": 1.0,
+     "margin": null,
+     "notional": 96.6511,
+     "gross": 0.0091,
+     "fees": 0.11598678,
+     "funding": 0.0,
+     "net": -0.10688678
+    }
+   }
+  },
+  {
+   "id": "1504176404264800258",
+   "symbol": "XRP",
+   "side": "LONG",
+   "open_ms": 1794349521699,
+   "close_ms": 1794349531719,
+   "entry": 1.062,
+   "exit": 1.0618,
+   "notional": 96.64200000000001,
+   "margin": null,
+   "gross": -0.0182,
+   "fees": 0.11595948,
+   "funding": 0.0,
+   "net": -0.13415948,
+   "pool": 69.63428953,
+   "shares": {
+    "3ea7cb55": {
+     "cap": 69.63428953,
+     "share": 1.0,
+     "margin": null,
+     "notional": 96.64200000000001,
+     "gross": -0.0182,
+     "fees": 0.11595948,
+     "funding": 0.0,
+     "net": -0.13415948
+    }
+   }
+  },
+  {
+   "id": "1504176822973779968",
+   "symbol": "XRP",
+   "side": "LONG",
+   "open_ms": 1794349621527,
+   "close_ms": 1794349629851,
+   "entry": 1.062,
+   "exit": 1.061,
+   "notional": 96.64200000000001,
+   "margin": null,
+   "gross": -0.091,
+   "fees": 0.1159158,
+   "funding": 0.0,
+   "net": -0.2069158,
+   "pool": 69.50013005000001,
+   "shares": {
+    "3ea7cb55": {
+     "cap": 69.50013005000001,
+     "share": 1.0,
+     "margin": null,
+     "notional": 96.64200000000001,
+     "gross": -0.091,
+     "fees": 0.1159158,
+     "funding": 0.0,
+     "net": -0.2069158
+    }
+   }
+  },
+  {
+   "id": "1504172359542263810",
+   "symbol": "HYPE",
+   "side": "SHORT",
+   "open_ms": 1794348557362,
+   "close_ms": 1794362996388,
+   "entry": 72.818,
+   "exit": 71.527,
+   "notional": 132.52876,
+   "margin": null,
+   "gross": 2.35103999,
+   "fees": 0.15762558,
+   "funding": 0.00657766,
+   "net": 2.19999206,
+   "pool": 69.90267401,
+   "shares": {
+    "3ea7cb55": {
+     "cap": 69.90267401,
+     "share": 1.0,
+     "margin": null,
+     "notional": 132.52876,
+     "gross": 2.35103999,
+     "fees": 0.15762558,
+     "funding": 0.00657766,
+     "net": 2.19999206
+    }
+   }
   }
  ]
 }
