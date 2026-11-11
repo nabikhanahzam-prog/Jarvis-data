@@ -270,6 +270,34 @@
      "net": -1.56880182
     }
    }
+  },
+  {
+   "id": "1504426046621634563",
+   "symbol": "SOXL",
+   "side": "LONG",
+   "open_ms": 1794409041075,
+   "close_ms": 1794412579062,
+   "entry": 63.07,
+   "exit": 67.38,
+   "notional": 27.7508,
+   "margin": null,
+   "gross": 1.8964,
+   "fees": 0.0344388,
+   "funding": 0.0,
+   "net": 1.8619612,
+   "pool": 69.67941747,
+   "shares": {
+    "3ea7cb55": {
+     "cap": 69.67941747,
+     "share": 1.0,
+     "margin": null,
+     "notional": 27.7508,
+     "gross": 1.8964,
+     "fees": 0.0344388,
+     "funding": 0.0,
+     "net": 1.8619612
+    }
+   }
   }
  ]
 }
