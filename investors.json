@@ -410,6 +410,34 @@
      "net": -1.42832976
     }
    }
+  },
+  {
+   "id": "1504847313489252353",
+   "symbol": "NBIS",
+   "side": "SHORT",
+   "open_ms": 1794509478923,
+   "close_ms": 1794519291524,
+   "entry": 127.49,
+   "exit": 131.11,
+   "notional": 42.0717,
+   "margin": null,
+   "gross": -1.1946,
+   "fees": 0.0512028,
+   "funding": 0.0,
+   "net": -1.2458028,
+   "pool": 71.06070486,
+   "shares": {
+    "3ea7cb55": {
+     "cap": 71.06070486,
+     "share": 1.0,
+     "margin": null,
+     "notional": 42.0717,
+     "gross": -1.1946,
+     "fees": 0.0512028,
+     "funding": 0.0,
+     "net": -1.2458028
+    }
+   }
   }
  ]
 }
